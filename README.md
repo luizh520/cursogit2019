@@ -1,3 +1,3 @@
 # Curso Git UNIVEM 2019
 
-- FLISOL 2019
+- FLISOL 2019.
